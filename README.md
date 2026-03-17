@@ -26,7 +26,7 @@ It showcases practical implementation of:
 
 This project reflects teamwork, problem-solving, and the ability to build a complete functional system from concept to implementation.
 
-
+---
 ## 🚀 Features
 
 ### 👨‍💼 Librarian

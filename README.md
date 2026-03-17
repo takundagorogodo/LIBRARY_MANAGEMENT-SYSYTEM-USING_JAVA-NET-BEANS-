@@ -222,14 +222,6 @@ CREATE TABLE seat_reservation (
 
 ![Faculty Profile](screenshots/faculty_profile.png)
 
-### 💰 Fine Management
-
-![Fine](screenshots/fine_management.png)
-
-### ⏰ Overdue Books
-
-![Overdue](screenshots/overdue.png)
-
 ---
 
 ## ▶️ How to Run
@@ -296,7 +288,7 @@ cd LibraryManagementSystem
 
 ## 👨‍💻 Author
 
-**Takundah Gorogodo**
+**Takunda Leonard Gorogodo**
 CSE Student | Software Developer
 
 ---
